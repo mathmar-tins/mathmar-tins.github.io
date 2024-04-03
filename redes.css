@@ -1,0 +1,28 @@
+body{
+    background-color: lightslategray;
+}
+.eu{
+    width: 50%;
+    height: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+    border-radius: 50%;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 6vw; /* ou qualquer outro valor em vw que você preferir */
+}
+.social-icons {
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+}
+
+.social-icons img {
+    width: 9vw;
+    height: 9vw;
+    border-radius: 50%;
+    margin: 0 5px;
+}
