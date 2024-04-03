@@ -15,3 +15,7 @@ h2{
 ol{
     color: #ffffff;
 }
+img{
+    max-width: 100%;
+    height: auto;
+}
