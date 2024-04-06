@@ -14,10 +14,19 @@ h1{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 6vw; /* ou qualquer outro valor em vw que você preferir */
 }
+.github{
+    display: flex;
+    justify-content: center;
+    margin-top: 1%;
+    margin-left: 16%;
+    width: 65vw;
+    height: 13.5vw;
+    border-radius: 50px;
+}
 .social-icons {
     display: flex;
     justify-content: center;
-    margin-top: 2%;
+    margin-top: 3%;
 }
 
 .social-icons img {
